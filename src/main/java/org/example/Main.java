@@ -9,10 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome!");
-<<<<<<< HEAD
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome!");
-=======
->>>>>>> new-api
     }
 }
